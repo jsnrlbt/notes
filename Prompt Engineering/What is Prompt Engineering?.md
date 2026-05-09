@@ -96,7 +96,7 @@ While CoT and ToT refine the internal logic of a model's response, they are only
 
 --------------------------------------------------------------------------------
 
-## 5. The Strategic Landscape: Prompting vs. RAG vs. Fine-Tuning
+## Prompting vs. RAG vs. Fine-Tuning
 
 Prompt engineering is one of three primary ways to optimize AI performance. Depending on your need for data freshness, deep expertise, or low latency, you may choose different tools.
 
@@ -143,4 +143,5 @@ To craft truly "grokkable" instructions that trigger AI reasoning, follow this w
 - [ ] **Establish Constraints:** Define the length, tone, and specific format (e.g., "Provide a 100-word summary in a Markdown table").
 - [ ] **Use Self-Correction:** Ask the model to evaluate its own work or use a "majority vote" across multiple outputs to ensure consensus.
 - [ ] **Iterate and Refine:** Treat prompting as an experimental science; if the logic fails, adjust the ordering of your examples and try again.
+
 [[Intro]]
