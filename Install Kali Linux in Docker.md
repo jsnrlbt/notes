@@ -42,3 +42,4 @@ By default, the official images are minimal and do not include the full suite of
         ```
         apt install -y kali-linux-headless
         ```
+        
